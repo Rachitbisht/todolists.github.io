@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/http//Rachitbisht.github.io/todolists.github.io/static/css/main.e543f6c0.css",
+    "main.js": "/http//Rachitbisht.github.io/todolists.github.io/static/js/main.3af84497.js",
+    "static/js/787.f3d7924f.chunk.js": "/http//Rachitbisht.github.io/todolists.github.io/static/js/787.f3d7924f.chunk.js",
+    "index.html": "/http//Rachitbisht.github.io/todolists.github.io/index.html",
+    "main.e543f6c0.css.map": "/http//Rachitbisht.github.io/todolists.github.io/static/css/main.e543f6c0.css.map",
+    "main.3af84497.js.map": "/http//Rachitbisht.github.io/todolists.github.io/static/js/main.3af84497.js.map",
+    "787.f3d7924f.chunk.js.map": "/http//Rachitbisht.github.io/todolists.github.io/static/js/787.f3d7924f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e543f6c0.css",
+    "static/js/main.3af84497.js"
+  ]
+}
